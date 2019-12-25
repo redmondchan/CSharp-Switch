@@ -39,7 +39,7 @@ class MainClass {
     //     break;
     // }
 
-    // ---------------------------------------------------
+    // ------------------Error examples----------------------
 
     // example of error for not including break
     // int num = 3;
@@ -56,7 +56,7 @@ class MainClass {
     //     Console.WriteLine("Case 3");
     //     break;
     // }
-    
+
 
     // example of error for different data types
     // int num = "three";
