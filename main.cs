@@ -3,7 +3,7 @@ using System;
 class MainClass {
   public static void Main (string[] args) {
     
-    Console.WriteLine("Pick one of the following colors: green, red, yellow");
+    Console.WriteLine("Pick one of the following colors: green, red, or yellow");
     var color = Console.ReadLine();
 
     switch(color)
