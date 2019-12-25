@@ -2,7 +2,8 @@ using System;
 
 class MainClass {
   public static void Main (string[] args) {
-    
+
+    // example with default statement
     Console.WriteLine("Pick one of the following colors: green, red, or yellow");
     var color = Console.ReadLine();
 
@@ -37,5 +38,6 @@ class MainClass {
     //     Console.WriteLine("Case 3");
     //     break;
     // }
+
   }
 }
